@@ -1,6 +1,6 @@
 module Main (main) where
 
-    --Output last element of array
+    --Find the number of elements of a list. 
 
 
     lengtht xs = sum[1 | _ <- xs]
